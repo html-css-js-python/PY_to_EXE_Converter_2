@@ -36,4 +36,4 @@ Once you have PyInstaller installed, download the EXE program ***[here](source/b
 ---
 
 **Menu**  
-**[[OPEN CODE](source/main.py)] [[ABOUT PYTHON](https://python.org/about)] [[HOW TO INSTALL PYINSTALLER](https://pyinstaller.org/en/stable/installation.html)] [[PYINSTALLER MANUAL](https://pyinstaller.org/en/stable/)]**
+**[[OPEN CODE](source/main.py)] [[ABOUT PYTHON](https://python.org/about)] [[HOW TO INSTALL PYINSTALLER](https://pyinstaller.org/en/stable/installation.html)] [[PYINSTALLER MANUAL](https://pyinstaller.org/en/stable/)] [[VERSION 1](https://github.com/html-css-js-python/PY_to_EXE_Converter)]**
