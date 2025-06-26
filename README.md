@@ -1,1 +1,1 @@
-# PY_to_EXE_Converter_2
+# Python to EXE converter 2
